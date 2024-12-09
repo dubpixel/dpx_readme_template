@@ -8,7 +8,7 @@
 *** Thanks again! Now go create something AMAZING! :D
 *** /// d   u   b   p   i   x   e   l 
 *** this has additionally been changed by dubpixel for the dpx_ series of projects
-*** search dpx_template .. replace COMMAND OPTION F
+*** search dpx_readme_template .. replace COMMAND OPTION F
 *** also has added kicad badge
 ***todo: want to add reflections seciton, upload as github template. 
 
@@ -37,15 +37,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dubpixel/dpx_template">
+  <a href="https://github.com/dubpixel/dpx_readme_template">
     <img src="images/logo.png" alt="Logo" height="120">
   </a>
 
-<h1 align="center">dpx_template </h1>
-<h3 align="center"><i>a project tag line</i></h3>
+<h1 align="center">dpx_readme_template </h1>
+<h3 align="center"><i>a template for our readme</i></h3>
 <br />
   <p align="center">
-    ...ba short description to tease interest
+    ...a fork of 'https://github.com/othneildrew/Best-README-Template' alingned towards hardware development
     <br />
     <br />
     <br />
@@ -57,9 +57,9 @@
      » 
     <a href="https://dubpixel.github.io/replace_projectName/ebom/index.html"><strong>Interactive BOM Here!</strong></a>
      <br />
-    <a href="https://github.com/dubpixel/dpx_template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/dubpixel/dpx_readme_template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/dubpixel/dpx_template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/dubpixel/dpx_readme_template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
     </div>
     </p>
 </div>
@@ -172,7 +172,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 1
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/dubpixel/dpx_template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dubpixel/dpx_readme_template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,8 +196,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/dubpixel/dpx_template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_template" alt="contrib.rocks image" />
+<a href="https://github.com/dubpixel/dpx_readme_template/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_readme_template" alt="contrib.rocks image" />
 </a>
 
 
@@ -216,7 +216,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 #Joshua Fleitell - i@dubpixel.tv
 
-Project Link: [https://github.com/dubpixel/dpx_template](https://github.com/dubpixel/dpx_template)
+Project Link: [https://github.com/dubpixel/dpx_readme_template](https://github.com/dubpixel/dpx_readme_template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -233,16 +233,16 @@ Project Link: [https://github.com/dubpixel/dpx_template](https://github.com/dubp
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_template.svg?style=for-the-badge
-[contributors-url]: https://github.com/dubpixel/dpx_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_template.svg?style=for-the-badge
-[forks-url]: https://github.com/dubpixel/dpx_template/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_template.svg?style=for-the-badge
-[stars-url]: https://github.com/dubpixel/dpx_template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_template.svg?style=for-the-badge
-[issues-url]: https://github.com/dubpixel/dpx_template/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_template.svg?style=for-the-badge
-[license-url]: https://github.com/dubpixel/dpx_template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_readme_template.svg?style=for-the-badge
+[contributors-url]: https://github.com/dubpixel/dpx_readme_template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_readme_template.svg?style=for-the-badge
+[forks-url]: https://github.com/dubpixel/dpx_readme_template/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_readme_template.svg?style=for-the-badge
+[stars-url]: https://github.com/dubpixel/dpx_readme_template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_readme_template.svg?style=for-the-badge
+[issues-url]: https://github.com/dubpixel/dpx_readme_template/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_readme_template.svg?style=for-the-badge
+[license-url]: https://github.com/dubpixel/dpx_readme_template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jfleitell
 [product-screenshot]: images/screenshot.png
