@@ -6,11 +6,17 @@
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
-*** /// d   u   b   p   i   x   e   l 
-*** this has additionally been changed by dubpixel for the dpx_ series of projects
-*** search dpx_readme_template .. replace COMMAND OPTION F
-*** also has added kicad badge
-***todo: want to add reflections seciton, upload as github template. 
+
+
+
+*** /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--
+*** this has additionally been modifed by @dubpixel for hardware use
+*** search dpx_readme_template .. search & replace is COMMAND OPTION F
+*** 
+*** todo: want to add reflections seciton, upload as github template.  - dont 12.9
+*** todo: backport to blank template
+*** todo add small product image thats not in a details tag
+*** figure out how to get the details tag to properly render in jekyll for gihub pages.
 
 -->
 
@@ -42,14 +48,12 @@
   </a>
 
 <h1 align="center">dpx_readme_template </h1>
-<h3 align="center"><i>a template for our readme</i></h3>
+<h3 align="center"><i>an ok template for hardware development </i></h3>
 <br />
   <p align="center">
     ...a fork of 'https://github.com/othneildrew/Best-README-Template' alingned towards hardware development
-    <br />
-    <br />
-    <br />
-    <br />
+        <br />
+        <br />
     <p align="center">
      <a href="https://github.com/dubpixel/replace_projectName/tree/main/"><strong>Project Here!</strong></a>
      »  
@@ -64,9 +68,6 @@
     </p>
 </div>
    <br />
-    <br />
-    <br />
-    <br />
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -84,7 +85,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Usage</a></li>    
+    <li><a href="#reflection">Reflection</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -93,10 +95,7 @@
   </ol>
 </details>
     <br />
-    <br />
-    <br />
 <!-- ABOUT THE PROJECT -->
-
 </div>
 
 ## About The Project
@@ -105,13 +104,16 @@ a lengthy description about the project that should probably be many lines. this
 www.dubpixel.tv  - i@dubpixel.tv
 
 <details>
-FRONT
+  <summary>Images</summary>
+  
+### FRONT 
 ![FRONT][product-front]
 
-REAR
+
+### REAR
 ![REAR][product-rear]
 
-iBOM PCB Front
+### iBOM PCB Front
 ![iBOM Front][product-pcbFront]
 
 iBOM PCB Rear
@@ -124,6 +126,7 @@ iBOM PCB Rear
 
 ### Built With 
 * [![KiCad][KiCad.org]][KiCad-url]
+* [![Fusion360][Fusion-360]][Autodesk-url]
 <!--
  * [![Next][Next.js]][Next-url]
  * [![React][React.js]][React-url]
@@ -152,6 +155,8 @@ iBOM PCB Rear
 2. Enjoy.
 3. Repeat as Needed!
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -161,7 +166,14 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Reflections
+## Reflection
+
+* what did we learn? 
+* what do we like/hate?
+* what would/could we do differently?
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- ROADMAP -->
 <!-- what did we learn? 
   what do we like/hate? 
   what do we want to do next time -->
@@ -202,10 +214,11 @@ Don't forget to give the project a star! Thanks again!
 
 
 
+
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+  Distributed under the UNLICENSE License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,9 +227,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-#Joshua Fleitell - i@dubpixel.tv
+  ### Joshua Fleitell - i@dubpixel.tv
 
-Project Link: [https://github.com/dubpixel/dpx_readme_template](https://github.com/dubpixel/dpx_readme_template)
+  Project Link: [https://github.com/dubpixel/dpx_readme_template](https://github.com/dubpixel/dpx_readme_template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,11 +238,9 @@ Project Link: [https://github.com/dubpixel/dpx_readme_template](https://github.c
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+  * [othneildrew](https://github.com/othneildrew/Best-README-Template) - the best readme template ever!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -268,3 +279,5 @@ Project Link: [https://github.com/dubpixel/dpx_readme_template](https://github.c
 [JQuery-url]: https://jquery.com 
 [KiCad.org]: https://img.shields.io/badge/KiCad-v8.0.6-blue
 [KiCad-url]: https://kicad.org 
+[Fusion-360]: https://img.shields.io/badge/Fusion360-v4.2.0-green
+[Autodesk-url]: https://autodesk.com 
