@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.0 - _First dubpixel version - big push_
+
+### Added or Changed
+- added badges for kicad and fusion 360
+- added images for pcb front /rear plus bom
+- added links to ibom in a location in the root , not where its deployed
+	- this may need to change someday
+- a lot of pagination and formatting
+- a top logo
+- reflection section
+- updated table of contents 
+- jekyl config for theme (for github pages cross deployment)
+	- still working on rendering the details tag properly especially with summary. it should ignore and display images.
+### Removed
+- some demo text, other badges.
+- twitter handle 
+--------------
 ## v1.1.1
 
 ### Added or Changed
