@@ -6,11 +6,17 @@
 *** or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
-*** /// d   u   b   p   i   x   e   l 
-*** this has additionally been changed by dubpixel for the dpx_ series of projects
-*** search dpx_replace_projectName .. replace COMMAND OPTION F
-*** also has added kicad badge
-***todo: want to add reflections seciton, upload as github template. 
+
+
+
+*** /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--
+*** this has additionally been modifed by @dubpixel for hardware use
+*** search dpx_replace_ProjectName.. search & replace is COMMAND OPTION F
+*** 
+*** todo: want to add reflections seciton, upload as github template.  - done 12.9
+*** todo: backport to blank template - done 12.9**
+*** todo add small product image thats not in a details tag
+*** figure out how to get the details tag to properly render in jekyll for gihub pages.
 
 -->
 
@@ -37,19 +43,16 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dubpixel/dpx_replace_projectName">
+  <a href="https://github.com/dubpixel/dpx_replace_ProjectName">
     <img src="images/logo.png" alt="Logo" height="120">
   </a>
 
-<h1 align="center">dpx_replace_projectName </h1>
-<h3 align="center"><i>a project tag line</i></h3>
+<h1 align="center">dpx_replace_ProjectName</h1>
+<h3 align="center"><i>a sassy `project tag line here</i></h3>
 <br />
   <p align="center">
-    ...ba short description to tease interest
-    <br />
-    <br />
-    <br />
-    <br />
+    ...a short description to tease interest
+        <br />
     <p align="center">
      <a href="https://github.com/dubpixel/replace_projectName/tree/main/"><strong>Project Here!</strong></a>
      »  
@@ -57,16 +60,13 @@
      » 
     <a href="https://dubpixel.github.io/replace_projectName/ebom/index.html"><strong>Interactive BOM Here!</strong></a>
      <br />
-    <a href="https://github.com/dubpixel/dpx_replace_projectName/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/dubpixel/dpx_replace_ProjectName/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/dubpixel/dpx_replace_projectName/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/dubpixel/dpx_replace_ProjectName/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
     </div>
     </p>
 </div>
    <br />
-    <br />
-    <br />
-    <br />
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -84,7 +84,8 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Usage</a></li>    
+    <li><a href="#reflection">Reflection</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -93,10 +94,7 @@
   </ol>
 </details>
     <br />
-    <br />
-    <br />
 <!-- ABOUT THE PROJECT -->
-
 </div>
 
 ## About The Project
@@ -105,26 +103,29 @@ a lengthy description about the project that should probably be many lines. this
 www.dubpixel.tv  - i@dubpixel.tv
 
 <details>
-FRONT
+  <summary>Images</summary>
+  
+### FRONT 
 ![FRONT][product-front]
 
-REAR
+### REAR
 ![REAR][product-rear]
 
-iBOM PCB Front
+### iBOM PCB Front
 ![iBOM Front][product-pcbFront]
 
-iBOM PCB Rear
+### iBOM PCB Rear
 ![iBOM Front][product-pcbRear]
 
 </details>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With 
-* [![KiCad][KiCad.org]][KiCad-url]
+ * [![KiCad][KiCad.org]][KiCad-url]
 <!--
+  
+ * [![Fusion360][Fusion-360]][Autodesk-url]
  * [![Next][Next.js]][Next-url]
  * [![React][React.js]][React-url]
  * [![Vue][Vue.js]][Vue-url]
@@ -152,19 +153,26 @@ iBOM PCB Rear
 2. Enjoy.
 3. Repeat as Needed!
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)_-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Reflections
-<!-- what did we learn? 
-  what do we like/hate? 
-  what do we want to do next time -->
+## Reflection
+<!-- 
+* what did we learn? 
+* what do we like/hate?
+* what would/could we do differently? 
+-->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- ROADMAP -->
 
 ## Roadmap
@@ -172,7 +180,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 1
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/dubpixel/dpx_replace_projectName/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dubpixel/dpx_replace_ProjectName/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -196,16 +204,17 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_replace_projectName" alt="contrib.rocks image" />
+<a href="https://github.com/dubpixel/dpx_replace_ProjectName/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_replace_ProjectName" alt="contrib.rocks image" />
 </a>
+
 
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+  Distributed under the UNLICENSE License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,9 +223,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-#Joshua Fleitell - i@dubpixel.tv
+  ### Joshua Fleitell - i@dubpixel.tv
 
-Project Link: [https://github.com/dubpixel/dpx_replace_projectName](https://github.com/dubpixel/dpx_replace_projectName)
+  Project Link: [https://github.com/dubpixel/dpx_replace_ProjectName](https://github.com/dubpixel/dpx_replace_ProjectName)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,24 +234,24 @@ Project Link: [https://github.com/dubpixel/dpx_replace_projectName](https://gith
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+<!--
+  * []() - the best !
+-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
-[contributors-url]: https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_replace_projectName.svg?style=for-the-badge
-[forks-url]: https://github.com/dubpixel/dpx_replace_projectName/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
-[stars-url]: https://github.com/dubpixel/dpx_replace_projectName/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
-[issues-url]: https://github.com/dubpixel/dpx_replace_projectName/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
-[license-url]: https://github.com/dubpixel/dpx_replace_projectName/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
+[contributors-url]: https://github.com/dubpixel/dpx_replace_ProjectName/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
+[forks-url]: https://github.com/dubpixel/dpx_replace_ProjectName/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
+[stars-url]: https://github.com/dubpixel/dpx_replace_ProjectName/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
+[issues-url]: https://github.com/dubpixel/dpx_replace_ProjectName/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
+[license-url]: https://github.com/dubpixel/dpx_replace_ProjectName/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jfleitell
 [product-screenshot]: images/screenshot.png
@@ -268,3 +277,5 @@ Project Link: [https://github.com/dubpixel/dpx_replace_projectName](https://gith
 [JQuery-url]: https://jquery.com 
 [KiCad.org]: https://img.shields.io/badge/KiCad-v8.0.6-blue
 [KiCad-url]: https://kicad.org 
+[Fusion-360]: https://img.shields.io/badge/Fusion360-v4.2.0-green
+[Autodesk-url]: https://autodesk.com 
