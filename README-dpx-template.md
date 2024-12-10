@@ -11,7 +11,7 @@
 
 *** /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--
 *** this has additionally been modifed by @dubpixel for hardware use
-*** search dpx_replace_ProjectName.. search & replace is COMMAND OPTION F
+*** search dpx_replace_projectName.. search & replace is COMMAND OPTION F
 *** 
 *** todo: want to add reflections seciton, upload as github template.  - done 12.9
 *** todo: backport to blank template - done 12.9**
@@ -43,26 +43,26 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/dubpixel/dpx_replace_ProjectName">
+  <a href="https://github.com/dubpixel/dpx_replace_projectName">
     <img src="images/logo.png" alt="Logo" height="120">
   </a>
 
-<h1 align="center">dpx_replace_ProjectName</h1>
+<h1 align="center">dpx_replace_projectName</h1>
 <h3 align="center"><i>a sassy project tag line here</i></h3>
 <br />
   <p align="center">
     ...a short description to tease interest
         <br />
     <p align="center">
-     <a href="https://github.com/dubpixel/replace_projectName/tree/main/"><strong>Project Here!</strong></a>
+     <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/"><strong>Project Here!</strong></a>
      »  
-    <a href="https://github.com/dubpixel/replace_projectName/tree/main/src/bom"><strong>BOM Here!</strong></a>
+    <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/src/bom"><strong>BOM Here!</strong></a>
      » 
-    <a href="https://dubpixel.github.io/replace_projectName/ebom/index.html"><strong>Interactive BOM Here!</strong></a>
+    <a href="https://dubpixel.github.io/dpx_replace_projectName/ebom/index.html"><strong>Interactive BOM Here!</strong></a>
      <br />
-    <a href="https://github.com/dubpixel/dpx_replace_ProjectName/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/dubpixel/dpx_replace_projectName/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/dubpixel/dpx_replace_ProjectName/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/dubpixel/dpx_replace_projectName/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
     </div>
     </p>
 </div>
@@ -180,7 +180,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_-->
 - [ ] Feature 1
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/dubpixel/dpx_replace_ProjectName/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dubpixel/dpx_replace_projectName/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -204,8 +204,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/dubpixel/dpx_replace_ProjectName/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_replace_ProjectName" alt="contrib.rocks image" />
+<a href="https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_replace_projectName" alt="contrib.rocks image" />
 </a>
 
 
@@ -225,7 +225,7 @@ Don't forget to give the project a star! Thanks again!
 
   ### Joshua Fleitell - i@dubpixel.tv
 
-  Project Link: [https://github.com/dubpixel/dpx_replace_ProjectName](https://github.com/dubpixel/dpx_replace_ProjectName)
+  Project Link: [https://github.com/dubpixel/dpx_replace_projectName](https://github.com/dubpixel/dpx_replace_projectName)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -242,16 +242,16 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
-[contributors-url]: https://github.com/dubpixel/dpx_replace_ProjectName/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
-[forks-url]: https://github.com/dubpixel/dpx_replace_ProjectName/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
-[stars-url]: https://github.com/dubpixel/dpx_replace_ProjectName/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
-[issues-url]: https://github.com/dubpixel/dpx_replace_ProjectName/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_replace_ProjectName.svg?style=for-the-badge
-[license-url]: https://github.com/dubpixel/dpx_replace_ProjectName/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[contributors-url]: https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[forks-url]: https://github.com/dubpixel/dpx_replace_projectName/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[stars-url]: https://github.com/dubpixel/dpx_replace_projectName/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[issues-url]: https://github.com/dubpixel/dpx_replace_projectName/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[license-url]: https://github.com/dubpixel/dpx_replace_projectName/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jfleitell
 [product-screenshot]: images/screenshot.png
