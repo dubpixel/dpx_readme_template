@@ -48,7 +48,7 @@
   </a>
 
 <h1 align="center">dpx_replace_ProjectName</h1>
-<h3 align="center"><i>a sassy `project tag line here</i></h3>
+<h3 align="center"><i>a sassy project tag line here</i></h3>
 <br />
   <p align="center">
     ...a short description to tease interest
@@ -100,7 +100,7 @@
 ## About The Project
 a lengthy description about the project that should probably be many lines. this is where you can get deep about shit and be like oh man its the best hot dog in the univberse because i use the koskusko mustart!
 
-www.dubpixel.tv  - i@dubpixel.tv
+author(s): // www.dubpixel.tv  - i@dubpixel.tv | other authors
 
 <details>
   <summary>Images</summary>
