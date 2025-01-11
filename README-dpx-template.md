@@ -9,12 +9,10 @@
 
 
 
-*** /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--
+*** /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.0
 *** this has additionally been modifed by @dubpixel for hardware use
 *** search dpx_replace_projectName.. search & replace is COMMAND OPTION F
 *** 
-*** todo: want to add reflections seciton, upload as github template.  - done 12.9
-*** todo: backport to blank template - done 12.9**
 *** todo add small product image thats not in a details tag
 *** figure out how to get the details tag to properly render in jekyll for gihub pages.
 

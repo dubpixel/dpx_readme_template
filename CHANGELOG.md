@@ -1,5 +1,21 @@
 # Changelog
 
+## v0.5.1 - _Now using new versioning_
+
+### Added or Changed
+- added badge for fastled
+- added irl images
+- updated placeholder PNG + added irl placeholders
+- images wrapped in detail dropdown tag
+- also has HF logo
+- fixed changelog
+- also forgot to update the .ignore
+
+
+## Removed
+- blank_template.md or something - stray file NFG
+
+
 ## v2.0.0 - _First dubpixel version - big push_
 
 ### Added or Changed

@@ -8,7 +8,9 @@
 # KiCad backup files
 *.bak
 *.bck
-*.kicad_pcb-bak
+**/*.kicad_pcb-bak
+**/*-backups/*.zip
+*.kicad_prl
 *.gsheet
 
 # KiCad generated files
