@@ -113,10 +113,19 @@ www.dubpixel.tv  - i@dubpixel.tv
 ### REAR
 ![REAR][product-rear]
 
+
+### FRONT Rendering
+![FRONT][product-front-rendering]
+
+
+### REAR Rendering
+![REAR][product-rear-rendering]
+
+
 ### iBOM PCB Front
 ![iBOM Front][product-pcbFront]
 
-iBOM PCB Rear
+### iBOM PCB Rear
 ![iBOM Front][product-pcbRear]
 
 </details>
@@ -125,8 +134,10 @@ iBOM PCB Rear
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With 
-* [![KiCad][KiCad.org]][KiCad-url]
-* [![Fusion360][Fusion-360]][Autodesk-url]
+ * [![KiCad][KiCad.org]][KiCad-url]
+ * [![Fusion360][Fusion-360]][Autodesk-url]
+ * [![FastLed][FastLed.io]][FastLed-url]
+
 <!--
  * [![Next][Next.js]][Next-url]
  * [![React][React.js]][React-url]
@@ -150,10 +161,6 @@ iBOM PCB Rear
 
 
 ### Installation
-
-1. Download...
-2. Enjoy.
-3. Repeat as Needed!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -259,6 +266,8 @@ Don't forget to give the project a star! Thanks again!
 [product-screenshot]: images/screenshot.png
 [product-front]: images/front.png
 [product-rear]: images/rear.png
+[product-front-rendering]: images/front_render.png
+[product-rear-rendering]: images/rear_render.png
 [product-pcbFront]: images/pcb_front.png
 [product-pcbRear]: images/pcb_rear.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
@@ -281,3 +290,5 @@ Don't forget to give the project a star! Thanks again!
 [KiCad-url]: https://kicad.org 
 [Fusion-360]: https://img.shields.io/badge/Fusion360-v4.2.0-green
 [Autodesk-url]: https://autodesk.com 
+[FastLed.io]: https://img.shields.io/badge/FastLED-v3.9.9-red
+[FastLed-url]: https://fastled.io 

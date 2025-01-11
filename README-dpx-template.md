@@ -97,32 +97,43 @@
 <!-- ABOUT THE PROJECT -->
 </div>
 
-## About The Project
+<details>
+<summary><h3>About The Project</h3></summary>
 a lengthy description about the project that should probably be many lines. this is where you can get deep about shit and be like oh man its the best hot dog in the univberse because i use the koskusko mustart!
 
+</br>
 author(s): // www.dubpixel.tv  - i@dubpixel.tv | other authors
+</br>
 
-<details>
   <summary>Images</summary>
   
-### FRONT 
+### FRONT
 ![FRONT][product-front]
 
-### REAR
+### REAR 
 ![REAR][product-rear]
+
+### FRONT Rendering
+![FRONT][product-front-rendering]
+
+### REAR Rendering
+![REAR][product-rear-rendering]
 
 ### iBOM PCB Front
 ![iBOM Front][product-pcbFront]
 
 ### iBOM PCB Rear
 ![iBOM Front][product-pcbRear]
-
 </details>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With 
  * [![KiCad][KiCad.org]][KiCad-url]
+ * [![Fusion360][Fusion-360]][Autodesk-url]
+ * [![FastLed][FastLed.io]][FastLed-url]
+
 <!--
   
  * [![Fusion360][Fusion-360]][Autodesk-url]
@@ -149,9 +160,10 @@ author(s): // www.dubpixel.tv  - i@dubpixel.tv | other authors
 
 ### Installation
 
+<!--
 1. Download...
 2. Enjoy.
-3. Repeat as Needed!
+3. Repeat as Needed! -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,6 +177,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_-->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Reflection
+
+* what did we learn? 
+* what do we like/hate?
+* what would/could we do differently?
 <!-- 
 * what did we learn? 
 * what do we like/hate?
@@ -209,15 +225,12 @@ Don't forget to give the project a star! Thanks again!
 </a>
 
 
-
-
 <!-- LICENSE -->
 ## License
 
   Distributed under the UNLICENSE License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -254,9 +267,10 @@ Don't forget to give the project a star! Thanks again!
 [license-url]: https://github.com/dubpixel/dpx_replace_projectName/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jfleitell
-[product-screenshot]: images/screenshot.png
 [product-front]: images/front.png
 [product-rear]: images/rear.png
+[product-front-rendering]: images/front_render.png
+[product-rear-rendering]: images/rear_render.png
 [product-pcbFront]: images/pcb_front.png
 [product-pcbRear]: images/pcb_rear.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
