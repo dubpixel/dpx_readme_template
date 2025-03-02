@@ -1,22 +1,16 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
+
+<!--  *** Thanks for checking out the Best-README-Template. If you have a suggestion that would make this better, please fork the repo and create a pull request or simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again! Now go create something AMAZING! :D -->
 
 
 
-*** /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.0
-*** this has additionally been modifed by @dubpixel for hardware use
-*** search dpx_replace_projectName.. search & replace is COMMAND OPTION F
-*** 
-*** todo add small product image thats not in a details tag
-*** figure out how to get the details tag to properly render in jekyll for gihub pages.
+<!-- /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.0 -->
+<!--this has additionally been modifed by @dubpixel for hardware use -->
+<!--search dpx_faded.. search & replace is COMMAND OPTION F -->
 
--->
+<!--todo add small product image thats not in a details tag -->
+<!--igure out how to get the details tag to properly render in jekyll for gihub pages.-->
 
 
 
@@ -51,17 +45,15 @@
   <p align="center">
     ...a short description to tease interest
         <br />
-    <p align="center">
      <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/"><strong>Project Here!</strong></a>
      »  
-    <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/src/bom"><strong>BOM Here!</strong></a>
+    <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/hardware/src/dpx_faded/bom"><strong>BOM Here!</strong></a>
      » 
-    <a href="https://dubpixel.github.io/dpx_replace_projectName/ebom/index.html"><strong>Interactive BOM Here!</strong></a>
+    <a href="https://dubpixel.github.io/dpx_replace_projectName/ibom/index.html"><strong>Interactive BOM Here!</strong></a>
      <br />
     <a href="https://github.com/dubpixel/dpx_replace_projectName/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/dubpixel/dpx_replace_projectName/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-    </div>
     </p>
 </div>
    <br />
@@ -173,6 +165,7 @@ author(s): // www.dubpixel.tv  - i@dubpixel.tv | other authors
 _For more examples, please refer to the [Documentation](https://example.com)_-->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- REFLECTION -->
 
 ## Reflection
 
@@ -291,3 +284,5 @@ Don't forget to give the project a star! Thanks again!
 [KiCad-url]: https://kicad.org 
 [Fusion-360]: https://img.shields.io/badge/Fusion360-v4.2.0-green
 [Autodesk-url]: https://autodesk.com 
+[FastLed.io]: https://img.shields.io/badge/FastLED-v3.9.9-red
+[FastLed-url]: https://fastled.io 

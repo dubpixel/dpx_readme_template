@@ -1,4 +1,16 @@
 # Changelog
+## v0.5.4 - _Now using new versioning_
+
+### Added or Changed
+- didnt track stuff thru from other versions
+- path fomratting for bom and ibom
+- ebom is now ibom
+- stray comments so now render correctly in jekyll
+- added gemfile and other stuff cant 100% remember if required but everything seems gucci with pages
+
+
+## Removed
+- uhh. nothing i think?
 
 ## v0.5.1 - _Now using new versioning_
 
