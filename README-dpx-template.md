@@ -45,6 +45,7 @@
   <p align="center">
     ...a short description to tease interest
         <br />
+     »  
      <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/"><strong>Project Here!</strong></a>
      »  
     <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/hardware/src/dpx_faded/bom"><strong>BOM Here!</strong></a>
@@ -59,8 +60,8 @@
    <br />
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
+  <summary><h3>Table of Contents</h3></summary>
+<ol>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -81,22 +82,19 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
+</ol>
 </details>
-    <br />
+<br />
 <!-- ABOUT THE PROJECT -->
-</div>
 
 <details>
 <summary><h3>About The Project</h3></summary>
 a lengthy description about the project that should probably be many lines. this is where you can get deep about shit and be like oh man its the best hot dog in the univberse because i use the koskusko mustart!
-
 </br>
 author(s): // www.dubpixel.tv  - i@dubpixel.tv | other authors
 </br>
+<h3>Images</h3>
 
-  <summary>Images</summary>
-  
 ### FRONT
 ![FRONT][product-front]
 
@@ -114,6 +112,7 @@ author(s): // www.dubpixel.tv  - i@dubpixel.tv | other authors
 
 ### iBOM PCB Rear
 ![iBOM Front][product-pcbRear]
+
 </details>
 
 
@@ -239,7 +238,7 @@ Don't forget to give the project a star! Thanks again!
 ## Acknowledgments
 
 <!--
-  * []() - the best !
+  * [ ]() - the best !
 -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
