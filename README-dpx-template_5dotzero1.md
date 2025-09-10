@@ -7,7 +7,7 @@
 
 <!-- /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.0 -->
 <!--this has additionally been modifed by @dubpixel for hardware use -->
-<!--search dpx_faded.. search & replace is COMMAND OPTION F -->
+<!--search dpx_replace_projectName.. search & replace is COMMAND OPTION F -->
 
 <!--todo add small product image thats not in a details tag -->
 <!--igure out how to get the details tag to properly render in jekyll for gihub pages.-->
@@ -48,7 +48,7 @@
      »  
      <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/"><strong>Project Here!</strong></a>
      »  
-    <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/hardware/src/dpx_faded/bom"><strong>BOM Here!</strong></a>
+    <a href="https://github.com/dubpixel/dpx_replace_projectName/tree/main/hardware/src/dpx_replace_projectName/bom"><strong>BOM Here!</strong></a>
      » 
     <a href="https://dubpixel.github.io/dpx_replace_projectName/ibom/index.html"><strong>Interactive BOM Here!</strong></a>
      <br />
