@@ -6,10 +6,12 @@ labels: enhancement
 ---
 
 ## Summary
-Brief explanation of the feature.
+* Brief explanation of the feature.
 
 ### Basic example
-Include a basic example or links here.
+* Include a basic example or links here. Photos and diagrams are great!
 
 ### Motivation
-Why are we doing this? What use cases does it support? What is the expected outcome?
+* _Why are we doing this?_
+* _What use cases does it support?_
+* _What is the expected outcome?_
