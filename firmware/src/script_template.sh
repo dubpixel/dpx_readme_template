@@ -16,6 +16,8 @@
 # - Verification before implementation of any suggestions
 # - Stay focused on the current task - do not jump ahead or suggest next steps
 # - Answer only what is asked, do not anticipate or propose additional work
+# - ALL user prompts and AI solutions must be documented in the change log comments
+#   Format: User prompt as single line, followed by itemized solution with → bullet
 #
 # The AI assistant will follow these directives to ensure code quality,
 # maintainability, and collaborative development practices.
