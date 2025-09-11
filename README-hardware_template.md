@@ -5,7 +5,7 @@
 
 
 
-<!-- /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.5 -->
+<!-- /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.6 -->
 <!--this has additionally been modifed by @dubpixel for hardware use -->
 <!--search dpx_replace_projectName.. search & replace is COMMAND OPTION F -->
 
@@ -35,11 +35,11 @@
 </div>
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/dubpixel/dpx_FusionVersioning">
+  <a href="https://github.com/dubpixel/dpx_replace_projectName">
     <img src="images/logo.png" alt="Logo" height="120">
   </a>
-<h1 align="center">dpx_FusionVersioning</h1>
-<h3 align="center"><i>a sassy project tag line here<</i></h3>
+<h1 align="center">dpx_replace_projectName</h1>
+<h3 align="center"><i>a sassy project tag line here</i></h3>
   <p align="center">
     ...a short description to tease interest
         <br />
@@ -162,7 +162,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_-->
 - [ ] Feature 1
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/dubpixel/dpx_FusionVersioning/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dubpixel/dpx_replace_projectName/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -179,8 +179,8 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ### Top contributors:
-<a href="https://github.com/dubpixel/dpx_FusionVersioning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_FusionVersioning" alt="contrib.rocks image" />
+<a href="https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_replace_projectName" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
@@ -192,7 +192,7 @@ Don't forget to give the project a star! Thanks again!
 
   ### Joshua Fleitell - i@dubpixel.tv
 
-  Project Link: [https://github.com/dubpixel/dpx_FusionVersioning](https://github.com/dubpixel/dpx_FusionVersioning)
+  Project Link: [https://github.com/dubpixel/dpx_replace_projectName](https://github.com/dubpixel/dpx_replace_projectName)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -205,16 +205,16 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_FusionVersioning.svg?style=flat-square
-[contributors-url]: https://github.com/dubpixel/dpx_FusionVersioning/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_FusionVersioning.svg?style=flat-square
-[forks-url]: https://github.com/dubpixel/dpx_FusionVersioning/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_FusionVersioning.svg?style=flat-square
-[stars-url]: https://github.com/dubpixel/dpx_FusionVersioning/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_FusionVersioning.svg?style=flat-square
-[issues-url]: https://github.com/dubpixel/dpx_FusionVersioning/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_FusionVersioning.svg?style=flat-square
-[license-url]: https://github.com/dubpixel/dpx_FusionVersioning/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[contributors-url]: https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_replace_projectName.svg?style=flat-square
+[forks-url]: https://github.com/dubpixel/dpx_replace_projectName/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[stars-url]: https://github.com/dubpixel/dpx_replace_projectName/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[issues-url]: https://github.com/dubpixel/dpx_replace_projectName/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[license-url]: https://github.com/dubpixel/dpx_replace_projectName/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jfleitell
 [product-front]: images/front.png

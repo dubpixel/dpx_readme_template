@@ -5,12 +5,13 @@
 
 
 
-<!-- /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.6 -->
+<!-- /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--v0.5.7 -->
 <!--this has additionally been modifed by @dubpixel for hardware use -->
 <!--search dpx_replace_projectName.. search & replace is COMMAND OPTION F -->
 
-<!--this is the version for sofrware only-->
-<!--todo add small product image thats not in a details tag -->
+<!--this is the version for software -->
+<!--todo ** add small product image thats not in a details tag -->
+<!--todo ** new software product image? Remove it? -->
 <!--igure out how to get the details tag to properly render in jekyll for gihub pages.-->
 
 
@@ -39,7 +40,7 @@
     <img src="images/logo.png" alt="Logo" height="120">
   </a>
 <h1 align="center">dpx_replace_projectName</h1>
-<h3 align="center"><i>a sassy project tag line here<</i></h3>
+<h3 align="center"><i>a sassy project tag line here</i></h3>
   <p align="center">
     ...a short description to tease interest
     <br />
@@ -82,7 +83,7 @@
 <!-- ABOUT THE PROJECT -->
 <details>
 <summary><h3>About The Project</h3></summary>
-a lengthy description about the project that should probably be many lines. this is where you can get deep about shit and be like oh man its the best hot dog in the univberse because i use the koskusko mustart!
+a lengthy description about the project that should probably be many lines. this is where you can get deep about shit and be like oh man its the best hot dog in the universe because i use the koskusko mustart!
 </br>
 
 *author(s): // www.dubpixel.tv  - i@dubpixel.tv | other authors* 
@@ -96,7 +97,7 @@ a lengthy description about the project that should probably be many lines. this
 
 ### Built With 
  
- * [![FastLed][FastLed.io]][FastLed-url]
+ * 
 
 <!--
  * [![KiCad][KiCad.org]][KiCad-url]
