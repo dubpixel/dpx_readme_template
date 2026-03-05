@@ -171,8 +171,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- LICENSE -->
 ## License
-
-  Distributed under the UNLICENSE License. See `LICENSE.txt` for more information.
+Distributed under the [LICENSE_TYPE] License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
