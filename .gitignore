@@ -24,6 +24,7 @@
 **/*-backups/*.zip
 **/*-backups/**
 *-backups/**
+**/template-inspiration/**
 
 # KiCad generated files
 *.erc
