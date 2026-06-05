@@ -2,6 +2,114 @@
 
 This document provides operational directives for AI coding assistants (GitHub Copilot, Claude Code, Cursor, etc.) working on dubpixel projects. These rules ensure consistent workflow automation, code quality, and documentation maintenance across all repositories.
 
+---
+
+## PROJECT: [Project Name]
+
+**Instructions for customizing this section:**
+Replace the placeholders below with your project's specific information. Remove subsections that don't apply. This template is intentionally verbose — prune what you don't need.
+
+**Status:** [e.g., v0.1.0 complete (2026-06-05) ✅]  
+**Branch:** [e.g., `feature/core-app-implementation`]  
+**Version File:** [e.g., `VERSION` (currently 0.1.0)]
+
+### Architecture (2-minute summary)
+
+[One-paragraph overview: what this project does, core tech, how it works]
+
+**Example:** "Browser-based monitoring tool for Phabrix QX waveform monitors. Pure vanilla JS (no frameworks, no build step, no CDN). Connects to QX REST API on port 8080, polls status/logs every 2-5s, stores settings in localStorage. Works offline in airgapped broadcast facilities."
+
+| Component | Tech/Location | Purpose | Notes |
+|-----------|---------------|---------|-------|
+| [Component 1] | [Tech] / `path/` | [What it does] | [Key details] |
+| [Component 2] | [Tech] / `path/` | [What it does] | [Key details] |
+| [Component 3] | [Tech] / `path/` | [What it does] | [Key details] |
+| [Reference docs] | [Format] / `path/` | [What it is] | **Source of truth for [topic]** |
+
+### Agent Rules (for this repo)
+
+**Before ANY code change:**
+1. Work from `[main/master]` branch; create feature branch: `feature/brief-description`
+2. Bump VERSION file per semantic versioning (AGENTS.md §1)
+3. Create git commit for version bump, tag it: `git tag vX.Y.Z`
+
+**While coding:**
+- [Project-specific rule or constraint]
+- [Technology requirement or restriction]
+- [Testing/validation requirement]
+- Keep changes small, test before committing
+- File header per AGENTS.md §3
+
+**When done:**
+- Update CHANGELOG.md with feature list
+- Create PR per AGENTS.md §1 template
+- [Any project-specific verification steps]
+
+### Critical Constraints
+
+**MUST HAVE:**
+- ✅ [Required capability or dependency]
+- ✅ [Required technology or approach]
+- ✅ [Required compatibility or standard]
+
+**DO NOT:**
+- ❌ [Forbidden action or technology]
+- ❌ [Assumption that must be avoided]
+- ❌ [Hard-coded value or static configuration]
+- ❌ [Change that requires explicit verification]
+
+### Key Decisions
+
+- **[Decision Title]:** [Explanation - why this approach was chosen over alternatives]
+- **[Decision Title]:** [Rationale for architecture/design choice]
+- **[Decision Title]:** [Context for future agents]
+
+**Examples:**
+- **Dual README templates:** Hardware needs schematics/BOMs, software needs API docs - fundamentally different documentation needs
+- **No WebSocket:** QX REST API is HTTP-only. Polling is the only option.
+- **Bootstrap on connect:** Device specs vary by boot mode - auto-detect on initial connection
+
+### Gotchas & Landmines
+
+1. **[Issue Title]:** [Description]. [Workaround or solution]. [Where to look for more info]
+2. **[Issue Title]:** [Description]. [Workaround or solution].
+3. **[Issue Title]:** [Description]. [Always check/verify X before doing Y].
+
+**Examples:**
+- **CORS issue:** API calls from `file://` origin fail. Use launch script or Python server, not direct open.
+- **Boot modes matter:** Device can boot in different modes. Different endpoints available per mode. Always auto-detect on connect.
+- **Manual is authority:** If specs seem odd, check `/docs/manual.pdf` Ch.X. Don't guess.
+
+### Common Operations
+
+**[Operation 1 - e.g., Create new project]:** `./script.sh` (interactive prompts for X/Y/Z)
+
+**[Operation 2 - e.g., Modify behavior]:** Edit `path/to/file.ext` - all logic centralized
+
+**[Operation 3 - e.g., Add components]:** Add to `path/`, update `config.ext` if special handling needed
+
+**[Operation 4 - e.g., Template processing]:**
+- [Scenario A]: `input-A.ext` → `output.ext`
+- [Scenario B]: `input-B.ext` → `output.ext`  
+- [Always]: `.git` and `.env` excluded from copy
+
+### Reference
+
+See `/CONTEXT.md` for:
+- [Extended architecture details]
+- [Module/component specifications]
+- [Data schemas or API contracts]
+
+See `/.github/CONTEXT.md` for:
+- [API endpoint reference]
+- [Configuration specifications]
+- [Testing procedures]
+
+### Development Philosophy
+
+[Optional: High-level principles for this project type]
+
+**Example:** "This is broadcast infrastructure tooling - reliability and simplicity trump features. Prefer vanilla JavaScript over frameworks. Keep dependencies minimal and auditable. Test in airgapped environments. Design for 24/7 unattended operation."
 
 ---
 
@@ -342,46 +450,27 @@ All code files must include a comprehensive header comment section:
 
 ---
 
-## 4. CONTEXT.md Maintenance
+## 4. Documentation Standards
 
-Every project should have a `CONTEXT.md` file in the root directory. This is the **architecture reference for agents**, not a conversation log.
+### Project Context Documentation
 
-### What CONTEXT.md Should Contain
+Project-specific architecture, decisions, and operational knowledge should live in the **PROJECT section at the top of this file**. This keeps rules and context unified in one scannable document.
 
-```markdown
-# [Project Name] - System Reference
+**When to use a separate CONTEXT.md:**
+Only create a separate `CONTEXT.md` if reference data becomes large enough to be noisy:
+- Long IP/VLAN tables
+- Full API response examples  
+- Hardware pinout references
+- Extensive data schemas
 
-## Project Overview
-[One-line summary of what this project does]
+If you create CONTEXT.md for overflow, add a reference in the PROJECT section at the top: "See CONTEXT.md for full network topology."
 
-## Architecture
-[Current tech stack, how components connect, data flow]
-
-## Key Decisions
-[Why we chose X over Y - rationale only, no timestamps or conversation history]
-
-## Domain Model
-[Core concepts, terminology specific to this project]
-
-## File Structure
-[Important directories and what they contain]
-
-## Development Setup
-[How to install, configure, run, and test]
-
-## Configuration
-[Environment variables, config files, credentials location]
-
-## Common Operations
-[Frequently needed commands or procedures]
-```
-
-### How to Maintain CONTEXT.md
+### How to Document Project Context
 
 **DO:**
 - ✅ Keep it clean, factual, and scannable
 - ✅ Update when architecture changes
-- ✅ Add new sections when you learn important project details
+- ✅ Add information when you learn important project details
 - ✅ Use tables, code blocks, and clear headings
 - ✅ Think: "What does the next agent need to know?"
 - ✅ Write in present tense, authoritative voice
@@ -577,7 +666,7 @@ While working:
 - [ ] Update change logs in modified files
 - [ ] Keep changes small and focused
 - [ ] Checkpoint progress if task is large
-- [ ] Update CONTEXT.md if architecture changes
+- [ ] Update PROJECT section if architecture changes
 
 After completing work:
 - [ ] Test/verify the changes
