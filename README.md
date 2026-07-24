@@ -1,36 +1,19 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
 
+<!--  *** Thanks for checking out the Best-README-Template. If you have a suggestion that would make this better, please fork the repo and create a pull request or simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again! Now go create something AMAZING! :D -->
 
-
-*** /// d   u   b   p   i   x   e   l  ---  f   o   r   k   ////--
-*** this has additionally been modifed by @dubpixel for hardware use
-*** search dpx_readme_template .. search & replace is COMMAND OPTION F
-*** 
-*** todo: want to add reflections seciton, upload as github template.  - dont 12.9
-*** todo: backport to blank template
-*** todo add small product image thats not in a details tag
-*** figure out how to get the details tag to properly render in jekyll for gihub pages.
-
--->
+<!-- /// d   u   b   p   i   x   e   l  ---  f   o   r   k   //// v0.5.7 -->
+<!-- this has additionally been modified by @dubpixel for hardware use -->
+<!-- search dpx_readme_template .. search & replace is COMMAND OPTION F -->
+<!-- todo: backport to blank template -->
+<!-- todo: add small product image not in a details tag -->
+<!-- todo: details tag jekyll rendering - addressed via _config.yml typographic_syms -->
 
 
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
-***
--->
+<!-- *** I'm using markdown "reference style" links for readability. Reference links are enclosed in brackets [ ] instead of parentheses ( ). See the bottom of this document for the declaration of the reference variables for contributors-url, forks-url, etc. This is an optional, concise syntax you may use. https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
