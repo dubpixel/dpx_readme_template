@@ -237,7 +237,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_readme_template.svg?style=for-the-badge
 [contributors-url]: https://github.com/dubpixel/dpx_readme_template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_readme_template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/dubpixel/dpx_readme_template.svg?style=for-the-badge
 [forks-url]: https://github.com/dubpixel/dpx_readme_template/network/members
 [stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_readme_template.svg?style=for-the-badge
 [stars-url]: https://github.com/dubpixel/dpx_readme_template/stargazers

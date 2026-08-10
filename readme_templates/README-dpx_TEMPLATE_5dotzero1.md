@@ -239,7 +239,7 @@ Distributed under the [LICENSE_TYPE] License. See `LICENSE.txt` for more informa
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
 [contributors-url]: https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_replace_projectName.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
 [forks-url]: https://github.com/dubpixel/dpx_replace_projectName/network/members
 [stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_replace_projectName.svg?style=for-the-badge
 [stars-url]: https://github.com/dubpixel/dpx_replace_projectName/stargazers

@@ -223,7 +223,7 @@ _Questions about commercial use? Open an issue or reach out._
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_biz_onesheet.svg?style=flat-square
 [contributors-url]: https://github.com/dubpixel/dpx_biz_onesheet/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/gdubpixel/dpx_biz_onesheet.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/dubpixel/dpx_biz_onesheet.svg?style=flat-square
 [forks-url]: https://github.com/dubpixel/dpx_biz_onesheet/network/members
 [stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_biz_onesheet.svg?style=flat-square
 [stars-url]: https://github.com/dubpixel/dpx_biz_onesheet/stargazers
