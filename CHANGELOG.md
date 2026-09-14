@@ -1,4 +1,11 @@
 # Changelog
+## v0.5.8 - _software template logo sub-versions_
+
+### Added or Changed
+- added `README-dpx_software_template_footer-logo.md` - logo moved out of top hero into a small footer block, hero swapped for a real product photo slot (field-tested in dpx_buttonode, issue #1)
+- added `README-dpx_software_template_inline-logo.md` - logo moved inline into the `<h1>` to avoid GitHub sanitizer margin gap (field-tested in dpx_buttonode, issue #2)
+
+
 ## v0.5.4 - _Now using new versioning_
 
 ### Added or Changed
