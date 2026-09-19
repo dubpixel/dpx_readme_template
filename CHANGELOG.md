@@ -1,4 +1,12 @@
 # Changelog
+## v0.5.9 - _slim_v2 convention alignment_
+
+### Added or Changed
+- `README-dpx_TEMPLATE_slim_v2.md` now uses the `dpx_replace_projectName` find-replace convention (matching v3/hardware/software/3d templates) instead of `[BRACKET_TOKEN]` placeholders
+- v2 keeps its Reflection sub-bullet placeholders (`_x_`/`_y_`/`_z_`) as the one remaining intentional difference from v3, which stays leaner with bare prompts only
+- Built With badges (KiCad/Fusion360/FastLED) and the full commented badge reference library now match between v2 and v3
+
+
 ## v0.5.4 - _Now using new versioning_
 
 ### Added or Changed
