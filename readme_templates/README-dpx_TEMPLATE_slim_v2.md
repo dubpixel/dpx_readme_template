@@ -14,21 +14,21 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/dubpixel/[PROJECT_SLUG]">
+  <a href="https://github.com/dubpixel/dpx_replace_projectName">
     <img src="images/logo.png" alt="Logo" height="120">
   </a>
-<h1 align="center">[PROJECT_NAME]</h1>
-<h3 align="center"><i>[PROJECT_TAGLINE]</i></h3>
+<h1 align="center">dpx_replace_projectName</h1>
+<h3 align="center"><i>a sassy project tag line here</i></h3>
   <p align="center">
-    [PROJECT_SHORT_DESC]
+    ...a short description to tease interest
     <br />
      »  
-     <a href="https://github.com/dubpixel/[PROJECT_SLUG]"><strong>Project Here!</strong></a>
+     <a href="https://github.com/dubpixel/dpx_replace_projectName"><strong>Project Here!</strong></a>
      »  
      <br />
-    <a href="https://github.com/dubpixel/[PROJECT_SLUG]/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/dubpixel/dpx_replace_projectName/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/dubpixel/[PROJECT_SLUG]/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/dubpixel/dpx_replace_projectName/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
     ·
     <a href="[LIVE_DEMO_URL]">Live Demo</a>
     </p>
@@ -40,10 +40,12 @@
 <!-- ABOUT THE PROJECT -->
 <h3>About The Project</h3>
 
-[PROJECT_LONG_DESC]
+a lengthy description about the project that should probably be many lines. this is where you can get deep about shit and be like oh man its the best hot dog in the universe because i use the koskusko mustard!
 
 **Key features:**
-[KEY_FEATURES]
+- feature one
+- feature two
+- feature three
 
 <details>
 <summary>Images</summary>
@@ -58,7 +60,9 @@
 
 ### Built With
 
-[BUILT_WITH_LIST]
+ * [![KiCad][KiCad.org]][KiCad-url]
+ * [![Fusion360][Fusion-360]][Autodesk-url]
+ * [![FastLed][FastLed.io]][FastLed-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,35 +72,29 @@
 
 ### Prerequisites
 
-[PREREQUISITES]
 
 ### Installation
 
-[INSTALLATION_STEPS]
-
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-[USAGE_EXAMPLES]
 
 <!-- REFLECTION -->
 ## Reflection
 
 * what did we learn? 
-  - [LEARNING_NOTES]
+  - _x_
 * what do we like/hate?
-  - [LIKES_DISLIKES]
+  - _y_
 * what would/could we do differently?
-  - [FUTURE_IMPROVEMENTS]
+  - _z_
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] [ROADMAP_ITEM_1]
-- [ ] [ROADMAP_ITEM_2]
-- [ ] [ROADMAP_ITEM_3]
+- [ ] Feature 1
+    - [ ] Nested Feature
 
-See the [open issues](https://github.com/dubpixel/[PROJECT_SLUG]/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/dubpixel/dpx_replace_projectName/issues) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -113,41 +111,39 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ### Top contributors:
-<a href="https://github.com/dubpixel/[PROJECT_SLUG]/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dubpixel/[PROJECT_SLUG]" alt="contrib.rocks image" />
+<a href="https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dubpixel/dpx_replace_projectName" alt="contrib.rocks image" />
 </a>
 
 <!-- LICENSE -->
 ## License
 
-All rights reserved. [LICENSE_DETAILS]
+All rights reserved.
 
 <!-- CONTACT -->
 ## Contact
 
-### [AUTHOR_NAME] - [AUTHOR_EMAIL]
+### Joshua Fleitell - i@dubpixel.tv
 
-Project Link: [https://github.com/dubpixel/[PROJECT_SLUG]](https://github.com/dubpixel/[PROJECT_SLUG])
+Project Link: [https://github.com/dubpixel/dpx_replace_projectName](https://github.com/dubpixel/dpx_replace_projectName)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-[ACKNOWLEDGMENTS]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/[PROJECT_SLUG].svg?style=flat-square
-[contributors-url]: https://github.com/dubpixel/[PROJECT_SLUG]/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dubpixel/[PROJECT_SLUG].svg?style=flat-square
-[forks-url]: https://github.com/dubpixel/[PROJECT_SLUG]/network/members
-[stars-shield]: https://img.shields.io/github/stars/dubpixel/[PROJECT_SLUG].svg?style=flat-square
-[stars-url]: https://github.com/dubpixel/[PROJECT_SLUG]/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dubpixel/[PROJECT_SLUG].svg?style=flat-square
-[issues-url]: https://github.com/dubpixel/[PROJECT_SLUG]/issues
-[license-shield]: https://img.shields.io/github/license/dubpixel/[PROJECT_SLUG].svg?style=flat-square
-[license-url]: https://github.com/dubpixel/[PROJECT_SLUG]/blob/main/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[contributors-url]: https://github.com/dubpixel/dpx_replace_projectName/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[forks-url]: https://github.com/dubpixel/dpx_replace_projectName/network/members
+[stars-shield]: https://img.shields.io/github/stars/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[stars-url]: https://github.com/dubpixel/dpx_replace_projectName/stargazers
+[issues-shield]: https://img.shields.io/github/issues/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[issues-url]: https://github.com/dubpixel/dpx_replace_projectName/issues
+[license-shield]: https://img.shields.io/github/license/dubpixel/dpx_replace_projectName.svg?style=flat-square
+[license-url]: https://github.com/dubpixel/dpx_replace_projectName/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jfleitell
 [product-front]: images/front.png
