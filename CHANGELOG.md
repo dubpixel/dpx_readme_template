@@ -6,6 +6,12 @@
 - v2 keeps its Reflection sub-bullet placeholders (`_x_`/`_y_`/`_z_`) as the one remaining intentional difference from v3, which stays leaner with bare prompts only
 - Built With badges (KiCad/Fusion360/FastLED) and the full commented badge reference library now match between v2 and v3
 
+## v0.5.8 - _software template logo sub-versions_
+
+### Added or Changed
+- added `README-dpx_software_template_footer-logo.md` - logo moved out of top hero into a small footer block, hero swapped for a real product photo slot (field-tested in dpx_buttonode, issue #1)
+- added `README-dpx_software_template_inline-logo.md` - logo moved inline into the `<h1>` to avoid GitHub sanitizer margin gap (field-tested in dpx_buttonode, issue #2)
+
 
 ## v0.5.4 - _Now using new versioning_
 
