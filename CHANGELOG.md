@@ -1,4 +1,10 @@
 # Changelog
+## v0.5.10 - _claudeDeck status hook + favicon assets_
+
+### Added or Changed
+- wired up `dpx_claudeDeck` Stream Deck status badge for this project: `.claude/dpx-claudedeck-status-hook.sh` + `.claude/settings.json` (SessionStart/PreToolUse/Notification/Stop/SessionEnd hooks)
+- added `images/dubbug_favicon.png` and `images/hotdog_favicon.png`
+
 ## v0.5.9 - _slim_v2 convention alignment_
 
 ### Added or Changed
