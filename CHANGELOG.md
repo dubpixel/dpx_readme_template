@@ -1,4 +1,12 @@
 # Changelog
+## v0.5.11 - _self-hosted Pages theme, drop mattgraham attribution banner_
+
+### Added or Changed
+- replaced `remote_theme: pages-themes/midnight` with a local `_layouts/default.html` + `_sass/dpx-midnight.scss` + `assets/css/style.scss` -- same dark look and feel, no third-party gem dependency, no "Theme by mattgraham" banner rendered on the page
+- dropped the custom OpenSans webfont files and bullet/hr/nav-bg GIF assets the original theme vendored; uses the system sans-serif stack and plain CSS instead, so the theme has zero vendored binary assets
+- `_config.yml`: removed `remote_theme`, `theme`, and the `jekyll-remote-theme` plugin entry (no longer needed)
+- credit to the original "midnight" theme design (Matt Graham) and the Rouge base16-dark syntax highlighting (Chris Kempson) kept as source comments in `_sass/dpx-midnight.scss` -- both are CC0/public-domain-style licensed so attribution isn't legally required, kept as a courtesy
+
 ## v0.5.10 - _claudeDeck status hook + favicon assets_
 
 ### Added or Changed
